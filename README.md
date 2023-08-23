@@ -15,7 +15,6 @@ HR(config-if)#exit
 HR(config)#
 HR(config)#
 HR(config)#end
-
 HR#
 HR#show ip dhcp binding
 IP address       Client-ID/              Lease expiration        Type
